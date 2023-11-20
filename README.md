@@ -1,12 +1,12 @@
-Install nginx
+# Install nginx
 
-Step 1: Update apt and install nginx
+### Step 1: Update apt and install nginx
 
 ```
 sudo apt update
 sudo apt install nginx
 ```
-Step 2: Config Firewall
+### Step 2: Config Firewall
 Firewall Ubuntu
 ```
 sudo ufw app list
@@ -48,12 +48,12 @@ OpenSSH (v6)               ALLOW       Anywhere (v6)
 Nginx HTTP (v6)            ALLOW       Anywhere (v6)
 
 ```
-Step 3: Recheck nginx
+### Step 3: Recheck nginx
 ```
 systemctl status nginx
 ```
 
-Step 4: Some commands are used frequently
+### Step 4: Some commands are used frequently
 Restart nginx
 ```
 nginx -s reload

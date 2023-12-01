@@ -54,9 +54,9 @@ Status: active
 
 To                         Action      From
 --                         ------      ----
-OpenSSH                    ALLOW       Anywhere                
-Nginx HTTP                 ALLOW       Anywhere                
-OpenSSH (v6)               ALLOW       Anywhere (v6)           
+OpenSSH                    ALLOW       Anywhere              
+Nginx HTTP                 ALLOW       Anywhere              
+OpenSSH (v6)               ALLOW       Anywhere (v6)         
 Nginx HTTP (v6)            ALLOW       Anywhere (v6)
 
 ```
@@ -99,4 +99,9 @@ config new domain on nginx
 
 ## III. HTTP Basic Authentication
 
-Tham khảo: [Link](https://blog.vinahost.vn/http-basic-authentication/)
+Tham khảo: 
+
+- Apache basic authentication
+
+  - [Link 1](https://blog.vinahost.vn/http-basic-authentication/)
+  - [Link 2](https://ubiq.co/tech-blog/how-to-configure-basic-authentication-in-nginx/)

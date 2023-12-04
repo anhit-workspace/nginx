@@ -105,4 +105,4 @@ Tham khảo:
 
   - [Link tham khảo từ blog.vinahost.vn](https://blog.vinahost.vn/http-basic-authentication/)
   - [Link tham khảo từ ubiq.co](https://ubiq.co/tech-blog/how-to-configure-basic-authentication-in-nginx/)
-  - [Link tham khảo từ cyberciti]([https://ubiq.co/tech-blog/how-to-configure-basic-authentication-in-nginx/](https://www.cyberciti.biz/faq/nginx-password-protect-directory-with-nginx-htpasswd-authentication/)https://www.cyberciti.biz/faq/nginx-password-protect-directory-with-nginx-htpasswd-authentication/)
+  - [Link tham khảo từ cyberciti](https://www.cyberciti.biz/faq/nginx-password-protect-directory-with-nginx-htpasswd-authentication/)
